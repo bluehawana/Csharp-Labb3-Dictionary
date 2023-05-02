@@ -1,0 +1,10 @@
+C:\Users\BLUEH\source\repos\Labb3Library\bin\Release\netcoreapp3.1\Labb3Library.deps.json
+C:\Users\BLUEH\source\repos\Labb3Library\bin\Release\netcoreapp3.1\Labb3Library.dll
+C:\Users\BLUEH\source\repos\Labb3Library\bin\Release\netcoreapp3.1\Labb3Library.pdb
+C:\Users\BLUEH\source\repos\Labb3Library\obj\Release\netcoreapp3.1\Labb3Library.csproj.AssemblyReference.cache
+C:\Users\BLUEH\source\repos\Labb3Library\obj\Release\netcoreapp3.1\Labb3Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUEH\source\repos\Labb3Library\obj\Release\netcoreapp3.1\Labb3Library.AssemblyInfoInputs.cache
+C:\Users\BLUEH\source\repos\Labb3Library\obj\Release\netcoreapp3.1\Labb3Library.AssemblyInfo.cs
+C:\Users\BLUEH\source\repos\Labb3Library\obj\Release\netcoreapp3.1\Labb3Library.csproj.CoreCompileInputs.cache
+C:\Users\BLUEH\source\repos\Labb3Library\obj\Release\netcoreapp3.1\Labb3Library.dll
+C:\Users\BLUEH\source\repos\Labb3Library\obj\Release\netcoreapp3.1\Labb3Library.pdb
